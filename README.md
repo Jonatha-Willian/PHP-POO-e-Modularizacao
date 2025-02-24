@@ -1,1 +1,1 @@
-Programação Orietada a Objetos em PHP e modularização do Código.
+Programação Orientada a Objetos em PHP e modularização do Código.
