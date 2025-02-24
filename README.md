@@ -1,1 +1,1 @@
-# PHP-POO-e-Modulariza-o
+Programção Orietada a Objetos em PHP e modularização do Código.
